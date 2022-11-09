@@ -1,0 +1,10 @@
+
+
+cls
+
+cls
+\
+
+
+
+git status
